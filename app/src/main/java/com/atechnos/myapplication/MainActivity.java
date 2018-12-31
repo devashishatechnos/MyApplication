@@ -15,4 +15,8 @@ public class MainActivity extends AppCompatActivity {
         //New
         //New1
     }
+
+    public void preeti(){
+        //preeti
+    }
 }
